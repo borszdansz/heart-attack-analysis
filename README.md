@@ -1,6 +1,6 @@
 # Szívroham kockázati elemzés
 
-A projekt célja egy adatelemzés volt szabadon válasasztható témában. A választás a szívinfarktus gyakorisága volt különböző változók szerint. 
+A projekt célja egy adatelemzés volt szabadon választható témában. A választás a szívinfarktus gyakorisága volt különböző változók szerint. 
 ## Csapat
 
 Borszéki Dániel - első éves matematika alapszakos hallgató
