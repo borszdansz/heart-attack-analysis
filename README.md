@@ -34,9 +34,3 @@ Az adatok a [Kaggle](https://www.kaggle.com/datasets/fatemehmohammadinia/heart-a
 ## Futtatás (CMD-ben)
 1. "pip install -r requirements.txt" Telepítjük a szükséges programcsomagokat. ("pip install pandas numpy matplotlib" is működik)
 2. "jupyter notebook" Notebook futtatása, itt a projekt mappába kell navigálni.
-
-
-
-
-## A program telepítése és futtatása
-
